@@ -1,0 +1,6 @@
+[submodule "tdlib-rs"]
+	path = tdlib-rs
+	url = git@github.com:FedericoBruzzone/tdlib-rs.git
+[submodule "tdlib/td"]
+	path = tdlib/td
+	url = https://github.com/tdlib/td.git

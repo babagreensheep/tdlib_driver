@@ -1,0 +1,12 @@
+services:
+
+  tdlib:
+    build: 
+      context: ./tdlib
+      dockerfile: tdlib.Dockerfile
+    user: 1000:1000
+    volumes:
+      - ./tdlib/td:/project/source/td
+    #   # - ./tdlib/build:/td/build
+
+

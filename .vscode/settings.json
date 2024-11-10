@@ -1,0 +1,4 @@
+{
+    "rust-analyzer.cargo.buildScripts.rebuildOnSave": false,
+    "rust-analyzer.checkOnSave": false
+}
